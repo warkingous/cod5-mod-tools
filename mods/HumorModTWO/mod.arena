@@ -1,0 +1,10 @@
+{
+	map			"mak"
+	longname	"MENU_LEVEL_MAK"
+	gametype	"cmp arc"
+}
+{
+	map			"pel1"
+	longname	"MENU_LEVEL_PEL1"
+	gametype	"cmp arc"
+}

@@ -1,0 +1,13 @@
+{
+	map			"mp_airfield"
+	longname	"MPUI_AIRFIELD"
+	loadname	"MPUI_AIRFIELD_CAPS"
+	gametype	"dm tdm sd sab dom koth twar war sur ctf"
+}
+
+{
+	map			"mp_asylum"
+	longname	"MPUI_ASYLUM"
+	loadname	"MPUI_ASYLUM_CAPS"
+	gametype	"dm tdm sd sab dom koth twar war sur ctf"
+}
